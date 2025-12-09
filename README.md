@@ -30,8 +30,6 @@
 ---
 
 
-## TryHackMe Statistics
-<img src="https://tryhackme-badges.s3.amazonaws.com/rajeevranjan.72.png" alt="Your Image Badge" />
 
 ## 🤝 Let's Connect
 
