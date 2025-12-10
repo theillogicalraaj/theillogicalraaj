@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/view/wake-up-daddys-home-ironman-jarvis-rdj-gif-11190514.gif" width="750">
+  <img src="https://raw.githubusercontent.com/theillogicalraaj/theillogicalraaj/main/tony.gif" width="100%">
 </p>
 
 # 👋 Greetings, I'm Rajeev Ranjan
