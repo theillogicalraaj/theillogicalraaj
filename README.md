@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://tenor.com/view/wake-up-daddys-home-ironman-jarvis-rdj-gif-11190514.gif" width="750">
+</p>
+
 # 👋 Greetings, I'm Rajeev Ranjan
 
 🎓 A second-year B.Tech undergraduate with an insatiable curiosity for technology, an ever-evolving passion for software development, and a steadfast commitment to continuous learning.
